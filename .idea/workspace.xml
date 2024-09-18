@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c00a0ee0-c99a-49dd-9729-099719887ea1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jcalendar_tz_1_3_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank management system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/management/system/Balance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/management/system/Conn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/management/system/Deposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/management/system/Fastcash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/management/system/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/management/system/Mini.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/management/system/Pinchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/management/system/SignupOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/management/system/SignupThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/management/system/SignupTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/management/system/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/management/system/Withdrawl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/atm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/logo.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2lycRsB4nH1JZo69uFiisa0XchV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Balance.executor": "Run",
+    "Application.Deposit.executor": "Run",
+    "Application.Fastcash.executor": "Run",
+    "Application.Login.executor": "Run",
+    "Application.Mini.executor": "Run",
+    "Application.Pinchange.executor": "Run",
+    "Application.SignupOne.executor": "Run",
+    "Application.SignupThree.executor": "Run",
+    "Application.SignupTwo.executor": "Run",
+    "Application.SingupOne.executor": "Run",
+    "Application.Transaction.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/bharg/Downloads/mysql-connector-java-8.0.28.jar",
+    "onboarding.tips.debug.path": "C:/Users/bharg/Desktop/code/IntelliJ/bank management system/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c00a0ee0-c99a-49dd-9729-099719887ea1" name="Changes" comment="" />
+      <created>1726155756003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726155756003</updated>
+    </task>
+    <servers />
+  </component>
+</project>
